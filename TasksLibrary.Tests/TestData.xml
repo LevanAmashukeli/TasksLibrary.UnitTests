@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<UserDetails>
+  <User userid ="George" telephone="+995595595595" email="george22@gmail.com"/>
+  <User userid ="Rock" telephone="+9955959090900" email="rock21@gmail.com"/>
+  <User userid ="Peter" telephone="+995595111234" email="patker111@gmail.com"/>
+  <User userid ="David" telephone="+995544112342" email="bakhem11@gmail.com"/>
+  <User userid ="Curt" telephone="+995511564735" email="cobain93@gmail.com"/>
+  <User userid ="Serj" telephone="+995533264564" email="soad11@gmail.com"/>
+  <User userid ="Leo" telephone="+995593445533" email="leoleo1@gmail.com"/>
+  </UserDetails>
